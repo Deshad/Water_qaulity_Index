@@ -77,25 +77,7 @@ The following visualizations are generated to better understand the dataset:
 
 The final WQI values for each sample are classified into categories, giving a clear understanding of the water quality at different locations. By analyzing this data, we can identify areas that need attention and intervention to improve water quality.
 
-## Example Visualizations
 
-### 1. KDE Plot of Water Quality Parameters
-
-![KDE Plot](kde_plot.png)
-
-This plot shows the distribution of various water quality parameters.
-
-### 2. Outliers Detected Using Z-Score
-
-![Outliers](outliers_plot.png)
-
-This visualization highlights the outliers detected through Z-Score normalization.
-
-### 3. Water Quality Index Calculation
-
-![WQI Plot](wqi_plot.png)
-
-The Water Quality Index is calculated for each sample and visualized here.
 
 ## Conclusion
 
